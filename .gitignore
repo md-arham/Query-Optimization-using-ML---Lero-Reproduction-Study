@@ -1,0 +1,16 @@
+# Ignore Database Data
+data/
+imdb/
+stats_benchmark/End-to-End-CardEst-Benchmark-master/
+
+# Ignore Compiled Binaries
+pgsql/
+postgresql-13.1/
+
+# Ignore huge log files (optional, keep if you want to show raw logs)
+*.tar.gz
+*.zip
+
+# Python cache
+__pycache__/
+*.pyc
